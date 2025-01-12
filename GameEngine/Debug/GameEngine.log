@@ -1,0 +1,24 @@
+﻿  camera.cpp
+  window.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\raulb\OneDrive\Desktop\Politehnica\Anul3\S1 Computer Graphics\TheHeist_1231EA_Balba_Tudor___Jac_Raul\GameEngine\GameEngine\main.cpp(379,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\raulb\OneDrive\Desktop\Politehnica\Anul3\S1 Computer Graphics\TheHeist_1231EA_Balba_Tudor___Jac_Raul\GameEngine\GameEngine\main.cpp(445,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\raulb\OneDrive\Desktop\Politehnica\Anul3\S1 Computer Graphics\TheHeist_1231EA_Balba_Tudor___Jac_Raul\GameEngine\GameEngine\main.cpp(449,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\raulb\OneDrive\Desktop\Politehnica\Anul3\S1 Computer Graphics\TheHeist_1231EA_Balba_Tudor___Jac_Raul\GameEngine\GameEngine\main.cpp(1118,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\raulb\OneDrive\Desktop\Politehnica\Anul3\S1 Computer Graphics\TheHeist_1231EA_Balba_Tudor___Jac_Raul\GameEngine\GameEngine\main.cpp(1123,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  meshLoaderObj.cpp
+  mesh.cpp
+  shader.cpp
+  texture.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  GameEngine.vcxproj -> C:\Users\raulb\OneDrive\Desktop\Politehnica\Anul3\S1 Computer Graphics\TheHeist_1231EA_Balba_Tudor___Jac_Raul\GameEngine\Debug\GameEngine.exe
